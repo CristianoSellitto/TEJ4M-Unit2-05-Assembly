@@ -1,4 +1,4 @@
-/* usm02.s */
+/* sum02.s */
 
 .global _start
 _start:
